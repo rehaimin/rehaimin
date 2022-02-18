@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning front end development.
 - 📫 How to reach me: <mrehaimin@gmail.com>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehaimin)](https://github.com/rehaimin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehaimin)](https://github.com/rehaimin/github-readme-stats)#gh-light-mode-only
