@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m addicted to coding.
-- 🌱 I’m currently learning backend development.
+- 🌱 I’m currently fullstack web developper.
 - 📫 How to reach me: <mrehaimin@gmail.com>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehaimin#gh-light-mode-only)](https://github.com/rehaimin/github-readme-stats#gh-light-mode-only)
